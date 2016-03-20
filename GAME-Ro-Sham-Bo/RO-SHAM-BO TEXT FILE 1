@@ -1,0 +1,1 @@
+$removepoints("$user","10","10","/me : $user has challenged $target to a game of Ro-Sham-Bo! A.K.A. Rock, Paper, Scissors","Challenge Failed","true")
