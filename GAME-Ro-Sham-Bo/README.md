@@ -20,7 +20,13 @@ Setting Up:
   RO-SHAM-BO TEXT FILE 1
   RO-SHAM-BO TEXT FILE 2
   files within GAME: Ro-Sham-Bo branch.
-
+  
+  Changes To Text Files;
+  FILE 1:
+  Change the "min","max" amounts under $removepoints parameter to the desired amount of points you wish to charge per challenge.
+  File 2"
+  Change the "min","max" amounts under each $addpoints parameter to the desired amount of points you wish to to award.
+  
   In Commands Tab;
   - Command: !roshambo
   - Permission: Everyone
